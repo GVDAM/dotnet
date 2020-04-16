@@ -1,0 +1,19 @@
+﻿@model List<Alunos>
+
+<div>
+    @foreach (var aluno in Model)
+    {
+        <ul>
+            <li>@aluno.Id</li>
+            <li>@aluno.Nome</li>
+            <li>@aluno.Turma</li>
+        </ul>
+    }
+</div>
+
+@* <div>
+    @Model.Id
+    @Model.Nome
+    @Model.Turma
+    @Model.FkCurso
+</div> *@

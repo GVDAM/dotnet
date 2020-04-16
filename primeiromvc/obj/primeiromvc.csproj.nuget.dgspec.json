@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/gabriel/Documents/GitHub/dotnet/primeiromvc/primeiromvc.csproj": {}
+  },
+  "projects": {
+    "/home/gabriel/Documents/GitHub/dotnet/primeiromvc/primeiromvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gabriel/Documents/GitHub/dotnet/primeiromvc/primeiromvc.csproj",
+        "projectName": "primeiromvc",
+        "projectPath": "/home/gabriel/Documents/GitHub/dotnet/primeiromvc/primeiromvc.csproj",
+        "packagesPath": "/home/gabriel/.nuget/packages/",
+        "outputPath": "/home/gabriel/Documents/GitHub/dotnet/primeiromvc/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gabriel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
