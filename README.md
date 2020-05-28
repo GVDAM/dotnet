@@ -1,2 +1,2 @@
 # dotnet
-Projetos .NET no Linux
+Projetos .NET Core no Linux com MySql
