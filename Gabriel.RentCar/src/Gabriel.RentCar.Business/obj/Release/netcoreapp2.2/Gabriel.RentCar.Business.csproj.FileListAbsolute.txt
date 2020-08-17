@@ -1,0 +1,7 @@
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Business\obj\Release\netcoreapp2.2\Gabriel.RentCar.Business.AssemblyInfoInputs.cache
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Business\obj\Release\netcoreapp2.2\Gabriel.RentCar.Business.AssemblyInfo.cs
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Business\bin\Release\netcoreapp2.2\Gabriel.RentCar.Business.deps.json
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Business\bin\Release\netcoreapp2.2\Gabriel.RentCar.Business.dll
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Business\bin\Release\netcoreapp2.2\Gabriel.RentCar.Business.pdb
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Business\obj\Release\netcoreapp2.2\Gabriel.RentCar.Business.dll
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Business\obj\Release\netcoreapp2.2\Gabriel.RentCar.Business.pdb

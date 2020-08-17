@@ -1,0 +1,9 @@
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Externo\bin\Debug\netcoreapp3.1\Externo.deps.json
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Externo\bin\Debug\netcoreapp3.1\Externo.dll
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Externo\obj\Debug\netcoreapp3.1\Externo.csprojAssemblyReference.cache
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Externo\obj\Debug\netcoreapp3.1\Externo.AssemblyInfoInputs.cache
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Externo\obj\Debug\netcoreapp3.1\Externo.AssemblyInfo.cs
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Externo\bin\Debug\netcoreapp3.1\Externo.pdb
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Externo\obj\Debug\netcoreapp3.1\Externo.csproj.CoreCompileInputs.cache
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Externo\obj\Debug\netcoreapp3.1\Externo.dll
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Externo\obj\Debug\netcoreapp3.1\Externo.pdb

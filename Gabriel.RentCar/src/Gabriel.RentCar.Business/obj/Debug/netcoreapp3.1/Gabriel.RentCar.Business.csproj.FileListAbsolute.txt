@@ -1,0 +1,3 @@
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Business\obj\Debug\netcoreapp3.1\Gabriel.RentCar.Business.csprojAssemblyReference.cache
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Business\obj\Debug\netcoreapp3.1\Gabriel.RentCar.Business.AssemblyInfoInputs.cache
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Business\obj\Debug\netcoreapp3.1\Gabriel.RentCar.Business.AssemblyInfo.cs

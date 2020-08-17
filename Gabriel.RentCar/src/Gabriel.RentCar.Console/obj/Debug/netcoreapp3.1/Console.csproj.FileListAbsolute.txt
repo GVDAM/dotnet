@@ -1,0 +1,13 @@
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Console\obj\Debug\netcoreapp3.1\Console.csproj.CoreCompileInputs.cache
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Console\bin\Debug\netcoreapp3.1\Console.exe
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Console\bin\Debug\netcoreapp3.1\Console.deps.json
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Console\bin\Debug\netcoreapp3.1\Console.dll
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Console\bin\Debug\netcoreapp3.1\Console.pdb
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Console\obj\Debug\netcoreapp3.1\Console.dll
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Console\obj\Debug\netcoreapp3.1\Console.pdb
+C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\Console\obj\Debug\netcoreapp3.1\Console.genruntimeconfig.cache

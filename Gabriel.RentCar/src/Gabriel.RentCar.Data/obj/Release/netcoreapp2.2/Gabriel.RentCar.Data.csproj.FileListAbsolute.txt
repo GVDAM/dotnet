@@ -1,0 +1,11 @@
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Data\obj\Release\netcoreapp2.2\Gabriel.RentCar.Data.AssemblyInfoInputs.cache
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Data\obj\Release\netcoreapp2.2\Gabriel.RentCar.Data.AssemblyInfo.cs
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Data\obj\Release\netcoreapp2.2\Gabriel.RentCar.Data.csprojAssemblyReference.cache
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Data\bin\Release\netcoreapp2.2\Gabriel.RentCar.Data.deps.json
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Data\bin\Release\netcoreapp2.2\Gabriel.RentCar.Data.dll
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Data\bin\Release\netcoreapp2.2\Gabriel.RentCar.Data.pdb
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Data\bin\Release\netcoreapp2.2\Gabriel.RentCar.Business.dll
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Data\bin\Release\netcoreapp2.2\Gabriel.RentCar.Business.pdb
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Data\obj\Release\netcoreapp2.2\Gabriel.RentCar.Data.csproj.CopyComplete
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Data\obj\Release\netcoreapp2.2\Gabriel.RentCar.Data.dll
+C:\Users\re038943\source\repos\Gabriel.RentCar\src\Gabriel.RentCar.Data\obj\Release\netcoreapp2.2\Gabriel.RentCar.Data.pdb

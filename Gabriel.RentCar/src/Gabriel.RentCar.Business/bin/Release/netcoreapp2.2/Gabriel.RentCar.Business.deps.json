@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Gabriel.RentCar.Business/1.0.0": {
+        "runtime": {
+          "Gabriel.RentCar.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gabriel.RentCar.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

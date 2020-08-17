@@ -1,0 +1,344 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\Console\\Console.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\Console\\Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\Console\\Console.csproj",
+        "projectName": "Console",
+        "projectPath": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\Console\\Console.csproj",
+        "packagesPath": "C:\\Users\\tegra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tegra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\Externo\\Externo.csproj": {
+                "projectPath": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\Externo\\Externo.csproj"
+              },
+              "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Api\\Gabriel.RentCar.Api.csproj": {
+                "projectPath": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Api\\Gabriel.RentCar.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\Externo\\Externo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\Externo\\Externo.csproj",
+        "projectName": "Externo",
+        "projectPath": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\Externo\\Externo.csproj",
+        "packagesPath": "C:\\Users\\tegra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\Externo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tegra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Api\\Gabriel.RentCar.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Api\\Gabriel.RentCar.Api.csproj",
+        "projectName": "Gabriel.RentCar.Api",
+        "projectPath": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Api\\Gabriel.RentCar.Api.csproj",
+        "packagesPath": "C:\\Users\\tegra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tegra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\Gabriel.RentCar.Business.csproj": {
+                "projectPath": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\Gabriel.RentCar.Business.csproj"
+              },
+              "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Data\\Gabriel.RentCar.Data.csproj": {
+                "projectPath": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Data\\Gabriel.RentCar.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\Gabriel.RentCar.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\Gabriel.RentCar.Business.csproj",
+        "projectName": "Gabriel.RentCar.Business",
+        "projectPath": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\Gabriel.RentCar.Business.csproj",
+        "packagesPath": "C:\\Users\\tegra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tegra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Data\\Gabriel.RentCar.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Data\\Gabriel.RentCar.Data.csproj",
+        "projectName": "Gabriel.RentCar.Data",
+        "projectPath": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Data\\Gabriel.RentCar.Data.csproj",
+        "packagesPath": "C:\\Users\\tegra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tegra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\Gabriel.RentCar.Business.csproj": {
+                "projectPath": "C:\\Users\\tegra\\Documents\\Repositorios\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\Gabriel.RentCar.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

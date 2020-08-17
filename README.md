@@ -1,2 +1,6 @@
 # dotnet
-Projetos .NET Core no Linux com MySql
+Projeto .NET Core utilizando:
+	-> Linux
+	-> MySql
+	-> SQL Server
+	-> Entity Framework
