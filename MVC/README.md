@@ -1,4 +1,4 @@
-# Testando aplicação MVC em Linux
+# Aplicações MVC no Linux
 - Linux
 - MySql
 - Entity Framework Core

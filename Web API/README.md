@@ -1,4 +1,4 @@
-# Testando WebApi em .NET Core
+# Aplicações WebApi em .NET Core
 - Swagger
 - AutoMapper
 - SQL Server
