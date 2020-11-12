@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\Gabriel.RentCar.Business.csproj": {}
+    "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Web API\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\Gabriel.RentCar.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\Gabriel.RentCar.Business.csproj": {
+    "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Web API\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\Gabriel.RentCar.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\Gabriel.RentCar.Business.csproj",
+        "projectUniqueName": "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Web API\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\Gabriel.RentCar.Business.csproj",
         "projectName": "Gabriel.RentCar.Business",
-        "projectPath": "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\Gabriel.RentCar.Business.csproj",
+        "projectPath": "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Web API\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\Gabriel.RentCar.Business.csproj",
         "packagesPath": "C:\\Users\\tegra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\obj\\",
+        "outputPath": "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Web API\\Gabriel.RentCar\\src\\Gabriel.RentCar.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tegra\\AppData\\Roaming\\NuGet\\NuGet.Config",

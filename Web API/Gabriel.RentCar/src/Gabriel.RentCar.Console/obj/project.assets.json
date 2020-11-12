@@ -558,11 +558,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Gabriel.RentCar\\src\\Gabriel.RentCar.Console\\Gabriel.RentCar.Console.csproj",
+      "projectUniqueName": "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Web API\\Gabriel.RentCar\\src\\Gabriel.RentCar.Console\\Gabriel.RentCar.Console.csproj",
       "projectName": "Gabriel.RentCar.Console",
-      "projectPath": "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Gabriel.RentCar\\src\\Gabriel.RentCar.Console\\Gabriel.RentCar.Console.csproj",
+      "projectPath": "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Web API\\Gabriel.RentCar\\src\\Gabriel.RentCar.Console\\Gabriel.RentCar.Console.csproj",
       "packagesPath": "C:\\Users\\tegra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Gabriel.RentCar\\src\\Gabriel.RentCar.Console\\obj\\",
+      "outputPath": "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Web API\\Gabriel.RentCar\\src\\Gabriel.RentCar.Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tegra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -578,8 +578,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Gabriel.RentCar\\src\\Gabriel.RentCar.Externo\\Gabriel.RentCar.Externo.csproj": {
-              "projectPath": "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Gabriel.RentCar\\src\\Gabriel.RentCar.Externo\\Gabriel.RentCar.Externo.csproj"
+            "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Web API\\Gabriel.RentCar\\src\\Gabriel.RentCar.Externo\\Gabriel.RentCar.Externo.csproj": {
+              "projectPath": "C:\\Users\\tegra\\Documents\\GitHub\\dotnet\\Web API\\Gabriel.RentCar\\src\\Gabriel.RentCar.Externo\\Gabriel.RentCar.Externo.csproj"
             }
           }
         }
