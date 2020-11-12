@@ -25,3 +25,15 @@ C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\src\Gabriel.RentCar.Data\o
 C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\src\Gabriel.RentCar.Data\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Data.csproj.CopyComplete
 C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\src\Gabriel.RentCar.Data\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Data.dll
 C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\src\Gabriel.RentCar.Data\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Data.pdb
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Data\bin\Debug\netcoreapp2.2\Gabriel.RentCar.Data.deps.json
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Data\bin\Debug\netcoreapp2.2\Gabriel.RentCar.Data.dll
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Data\bin\Debug\netcoreapp2.2\Gabriel.RentCar.Data.pdb
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Data\bin\Debug\netcoreapp2.2\Gabriel.RentCar.Business.dll
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Data\bin\Debug\netcoreapp2.2\Gabriel.RentCar.Business.pdb
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Data\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Data.csprojAssemblyReference.cache
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Data\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Data.AssemblyInfoInputs.cache
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Data\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Data.AssemblyInfo.cs
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Data\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Data.csproj.CoreCompileInputs.cache
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Data\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Data.csproj.CopyComplete
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Data\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Data.dll
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Data\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Data.pdb

@@ -14,3 +14,12 @@ C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\src\Gabriel.RentCar.Busine
 C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\src\Gabriel.RentCar.Business\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Business.AssemblyInfo.cs
 C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\src\Gabriel.RentCar.Business\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Business.dll
 C:\Users\tegra\Documents\Repositorios\Gabriel.RentCar\src\Gabriel.RentCar.Business\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Business.pdb
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Business\bin\Debug\netcoreapp2.2\Gabriel.RentCar.Business.deps.json
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Business\bin\Debug\netcoreapp2.2\Gabriel.RentCar.Business.dll
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Business\bin\Debug\netcoreapp2.2\Gabriel.RentCar.Business.pdb
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Business\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Business.csprojAssemblyReference.cache
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Business\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Business.AssemblyInfoInputs.cache
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Business\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Business.AssemblyInfo.cs
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Business\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Business.csproj.CoreCompileInputs.cache
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Business\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Business.dll
+C:\Users\tegra\Documents\GitHub\dotnet\Web API\Gabriel.RentCar\src\Gabriel.RentCar.Business\obj\Debug\netcoreapp2.2\Gabriel.RentCar.Business.pdb
